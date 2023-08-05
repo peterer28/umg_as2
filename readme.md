@@ -2,7 +2,7 @@
 1. A continuación proceda a hacer un fork del siguiente codigo y asignale el nombre de IPARCIAL_CARNE.
 2. Proceda a clonar su codigo desde su repositorio.
 3. Cree una rama con el nombre de hotfix y su carné.
-4. Modifique el archivo index.html
+4. Modifique el archivo index.html (cambiele de nombre al archivo index-- ejemplo index_carne.html)
     3.1 En la sección de Contacto: Agregue su correo electrónico y nombre completo como diseñador.
     3.2 En dirección agregue, la ubicación del establecimiento INMR Emilio Rosales Ponce.
     3.3 Agregue una sección que manifieste el proceso de analisis de sistemas.
